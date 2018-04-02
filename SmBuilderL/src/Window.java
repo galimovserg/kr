@@ -35,8 +35,8 @@ public class Window extends JFrame{
 	
 	StoreExtnd St=new StoreExtnd();
 	SmetaExtnd Sm=new SmetaExtnd();
-	
-	
+	//adhcdscjsdcdsjgcvscs
+	int a=1+2;
 	
 	
 	
