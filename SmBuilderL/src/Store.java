@@ -237,7 +237,7 @@ JSplitPane content;
 		
 		
 		
-		
+		//add comment
 		setLayout(null);
 		pntop=new JPanel();pntop.setLayout(null);
 		pnbottom=new JPanel();pnbottom.setLayout(null);
